@@ -10,12 +10,10 @@ body {
   border-style: groove;
   border-radius: 100%;
   margin-right: 2%;
-
 }
 
 .secondpar {
   padding-top: 2%;
-
 }
 
 .aboutme h4 {
@@ -33,5 +31,8 @@ padding-top: 20px;
   margin-top: 2%;
   margin-left: 15%;
   margin-bottom: 5%;
+}
 
+.highlight {
+  color: red;
 }
