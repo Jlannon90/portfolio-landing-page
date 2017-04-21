@@ -11,8 +11,7 @@ _{This is a portfolio webpage using HTML and CSS, which will act as the landing 
 ## Setup/Installation Requirements
 
 * _Clone this repository_
-* _Open the HTML page_
-* _GH PAGES LINK HERE_
+* _Open the HTML page at https://jlannon90.github.io/portfolio-landing-page/_
 
 ## Known Bugs
 
