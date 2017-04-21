@@ -1,1 +1,17 @@
+body {
 
+}
+
+.aboutme img {
+  max-width: 100px;
+  max-height: auto;
+  float: left;
+  border-width: medium;
+  border-style: dotted;
+  border-radius: 100%;
+
+}
+
+.aboutme p {
+  padding-left: 120px;
+}
