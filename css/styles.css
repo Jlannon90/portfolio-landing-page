@@ -1,7 +1,49 @@
 body {
-
+  background-color: #000032;
 }
-
+a {
+  color: #000032;
+  text-decoration: underline;
+}
+body p {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.jumbotron {
+  background-color: white;
+  border-style: solid;
+  border-color: teal;
+  border-width: thick;
+}
+.jumbotron h1 {
+  font-family: 'Stint Ultra Expanded', cursive;
+  text-decoration: underline;
+}
+.jumbotron h3 {
+  font-family: 'Dancing Script', cursive;
+  margin-top: 1%;
+}
+.panel-title {
+  font-family: 'Stint Ultra Expanded', cursive;
+  font-size: 1.5em;
+}
+.panel {
+  border-style: solid;
+  border-color: teal;
+  border-width: thick;
+  margin-left: -.5%;
+  margin-right: -.5%;
+  margin-top: -.5%;
+}
+h4 {
+  font-family: 'Stint Ultra Expanded', cursive;
+}
+ol {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.2em;
+  font-weight: bold;
+}
 .me img {
   max-width: 150px;
   max-height: auto;
@@ -10,22 +52,26 @@ body {
   border-style: solid;
   border-radius: 100%;
   margin-right: 2%;
+  border-color: #000032;
 }
-
 .secondpar {
   padding-top: 2%;
 }
-
 .aboutme h4 {
 padding-left: 20px;
 padding-top: 20px;
 }
-
 .interests img {
   max-width: 200px;
   max-height: auto;
   border-width: medium;
   border-style: solid;
+  border-color: #000032;
+}
+.interests p {
+  font-family: 'Dancing Script', cursive;
+  margin-top: 2%;
+  font-size: 1.3em;
 }
 .coding img {
   max-width: 200px;
@@ -36,29 +82,29 @@ padding-top: 20px;
   margin-right: 15%;
   margin-top: 4%;
   margin-left: 15%;
-  margin-bottom: 2%;
+  margin-bottom: 4%;
+  border-color: #000032;
 }
-
 .highlight {
-  color: red;
+  color: teal;
 }
-
 ul {
   list-style: none;
+  font-family: 'Stint Ultra Expanded', cursive;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-align: left;
 }
-
 .italic {
+  font-family: 'Cormorant Garamond', serif;
   font-style: italic;
 }
-
-li{
-  padding-top: 1%;
+ul li{
+  padding-top: 2%;
 }
-
 .hobbies img {
   margin-left: 20%;
 }
-
 .hobbies p {
   margin-left: 40%;
 }

@@ -12,6 +12,7 @@ _{This is a portfolio webpage using HTML and CSS, which will act as the landing 
 
 * _Clone this repository_
 * _Open the HTML page_
+* _GH PAGES LINK HERE_
 
 ## Known Bugs
 
